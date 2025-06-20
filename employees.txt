@@ -1,0 +1,20 @@
+1,Sarah Clark,Data Scientist,35000.00,2025-03-20,Software,true
+2,Jane Smith,Developer,75000.00,2020-09-15,Engineering,true
+3,Sam Johnson,Analyst,65000.00,2019-01-10,Finance,true
+4,Emily Davis,HR Specialist,60000.00,2017-03-20,HR,true
+5,Robert Brown,Developer,80000.00,2016-11-05,Engineering,true
+6,Laura Wilson,Accountant,55000.00,2022-02-01,Finance,true
+7,Mark Taylor,Technician,48000.00,2023-07-10,IT,true
+8,Olivia Martin,Designer,70000.00,2021-08-22,Marketing,true
+9,Kevin Lee,Engineer,90000.00,2015-05-14,Engineering,true
+10,Sophia Harris,Recruiter,52000.00,2024-01-12,HR,true
+11,Daniel White,Manager,87000.00,2020-06-10,Operations,true
+12,Grace Clark,Data Scientist,95000.00,2023-03-18,Engineering,true
+13,Matthew Hall,Consultant,77000.00,2019-09-27,Consulting,true
+14,Chloe Young,Developer,72000.00,2018-12-03,Engineering,true
+15,Anthony King,Sales Rep,68000.00,2021-05-06,Sales,true
+16,Isabella Scott,Marketing Lead,78000.00,2020-10-30,Marketing,true
+17,Andrew Green,Support,51000.00,2022-06-17,Support,true
+18,Sofia Baker,Tester,59000.00,2023-09-01,QA,true
+19,Benjamin Adams,Database Admin,82000.00,2017-07-21,IT,true
+20,Victoria Nelson,Product Manager,89000.00,2018-02-02,Product,true

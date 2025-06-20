@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LogicAndInputValidation_Project_Module7:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LogicAndInputValidation_Project_Module7_jar</output-path>
+    <root id="archive" name="LogicAndInputValidation_Project_Module7.jar">
+      <element id="module-output" name="LogicAndInputValidation_Project_Module7" />
+    </root>
+  </artifact>
+</component>
